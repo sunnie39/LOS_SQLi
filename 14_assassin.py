@@ -5,7 +5,7 @@
 import requests
 
 url ="https://los.rubiya.kr/chall/assassin_14a1fd552c61c60f034879e5d4171373.php?" #공격URL
-cookies ={"PHPSESSID": "5mc7krftsj3sgtp7h7ofqnnr0a"} #쿠키값
+cookies ={"PHPSESSID": ""} #쿠키값
 payload=""
 check=0
 
