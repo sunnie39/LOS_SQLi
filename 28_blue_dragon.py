@@ -5,7 +5,7 @@ import time
 import requests
 
 url ="https://los.rubiya.kr/chall/frankenstein_b5bab23e64777e1756174ad33f14b5db.php?" #공격URL
-cookies ={"PHPSESSID": "8d3vv8d8cv9e49kv0u3kasqr6f"} #쿠키값
+cookies ={"PHPSESSID": ""} #쿠키값
 payload=""
 check=0
 
