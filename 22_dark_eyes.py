@@ -4,7 +4,7 @@
 import requests
 
 url ="https://los.rubiya.kr/chall/dark_eyes_4e0c557b6751028de2e64d4d0020e02c.php?" #공격URL
-cookies ={"PHPSESSID": "l5ionhml1rovs2ts9vqtmn49fs"} #쿠키값
+cookies ={"PHPSESSID": ""} #쿠키값
 
 #패스워드 길이 찾기
 def pw_len():
